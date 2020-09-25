@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd839866-7f75-4706-8b54-f3defa9911d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hsDD3FD1ip81ScGbekC1h9L0zf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd839866-7f75-4706-8b54-f3defa9911d7" name="Default Changelist" comment="" />
+      <created>1600790782607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600790782607</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="228" y="74" key="SettingsEditor" timestamp="1600969493441">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="228" y="74" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1600969493441" />
+    <state x="559" y="188" width="761" height="543" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600957647502">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="559" y="188" width="761" height="543" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1440.825@0.23.1440.825" timestamp="1600957647502" />
+    <state x="559" y="189" width="761" height="544" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1440.828@0.23.1440.828" timestamp="1600952573066" />
+    <state x="399" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1600969391446">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="399" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1600969391446" />
+    <state x="399" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1600872549923" />
+    <state x="399" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1600952558891" />
+    <state x="604" y="210" key="run.anything.popup" timestamp="1600956774878">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="604" y="210" key="run.anything.popup/0.23.1440.825@0.23.1440.825" timestamp="1600956774878" />
+  </component>
+</project>
